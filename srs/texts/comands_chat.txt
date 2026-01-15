@@ -1,0 +1,8 @@
+/admin_chatid - показывает chat_id текущего чата
+/start - стартует бота + приветствие
+/admin_autoreplies - показывает список всех автоответов (QUICK_REPLIES)
+/admin_setreply <ключ> <текст> изменяет текст автоответа, без перезапуска бота
+/admin_stats - показывает статистику бота
+/blacklist_list - показывает кто в ЧС
+/blacklist_add - добавить в ЧС
+/blacklist_remove удалить из ЧС
